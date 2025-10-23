@@ -1,5 +1,19 @@
-# Sustainable-development
-uni project
+# 🌍 Sustainable Development Game
+
+A Python-based educational dice game was designed.  
+This project demonstrates modular software design, testing, and documentation best practices.
+
+---
+
+## 🧠 Overview
+
+The **Sustainable Development Game** is a command-line Python game that simulates sustainability-related choices using dice mechanics.  
+It emphasizes:
+- Object-oriented design
+- Persistent high score tracking
+- Intelligent AI opponent (different difficulty levels)
+- Clear module separation and reusability
+- Automatically generated documentation and UML diagrams
 
 
 
