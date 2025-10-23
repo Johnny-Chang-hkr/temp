@@ -5,8 +5,6 @@ uni project
 
 
 
-
-
 ## 🧩 UML Documentation
 
 This project includes automatically generated UML diagrams to visualize the structure of the codebase.  
@@ -18,6 +16,7 @@ To generate UML diagrams, run the following command from the project root:
 
 ```bash
 make uml
+```
 
 ## 📚 Code Documentation (HTML)
 
@@ -30,3 +29,5 @@ You can regenerate the documentation at any time by running:
 
 ```bash
 make doc
+ ```
+
